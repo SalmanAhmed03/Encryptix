@@ -1,4 +1,4 @@
-<img width="421" alt="Screenshot 2024-06-14 205328" src="https://github.com/SalmanAhmed03/Encryptix-MachineLearning/assets/124187700/dd8e6d6c-df85-4b6b-a7a5-57f6d0d5bdae">Fraud Detection Model with Logistic Regression
+Fraud Detection Model with Logistic Regression
 Step 1: Importing necessary libraries
 This step imports all the required libraries for data handling, model training, evaluation, and visualization. Key libraries include pandas for data manipulation, scikit-learn for machine learning operations, imbalanced-learn for handling class imbalance, and matplotlib/seaborn for plotting.
 
