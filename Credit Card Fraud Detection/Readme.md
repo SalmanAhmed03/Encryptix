@@ -1,4 +1,5 @@
 Fraud Detection Model with Logistic Regression
+
 Step 1: Importing necessary libraries
 This step imports all the required libraries for data handling, model training, evaluation, and visualization. Key libraries include pandas for data manipulation, scikit-learn for machine learning operations, imbalanced-learn for handling class imbalance, and matplotlib/seaborn for plotting.
 
