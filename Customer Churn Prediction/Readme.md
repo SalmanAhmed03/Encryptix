@@ -5,6 +5,7 @@ This project aims to develop a model to predict customer churn for a subscriptio
 Logistic Regression
 Random Forest
 Gradient Boosting
+
 Table of Contents
 Installation
 Data Preprocessing
