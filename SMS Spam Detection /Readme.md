@@ -1,6 +1,6 @@
 SPAM SMS Detection
 
-This project builds a machine learning model to classify SMS messages as either spam or legitimate (ham). We utilize techniques like TF-IDF for text feature extraction and classifiers such as Naive Bayes, Logistic Regression, and Support Vector Machines (SVM) to identify spam messages.
+This project builds a machine learning model to classify SMS messages as either spam or legitimate (ham). We utilize techniques like TF-IDF for text feature extraction and classifiers such as Naive Bayes, Logistic Regression to identify spam messages.
 
 Table of Contents
 
