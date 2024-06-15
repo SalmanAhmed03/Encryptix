@@ -9,13 +9,21 @@ Random Forest
 Gradient Boosting
 
 Table of Contents
+
 Installation
+
 Data Preprocessing
+
 Model Training
+
 Model Evaluation
+
 Results
+
 License
+
 Installation
+
 To run this project, you need to have Python installed along with the required libraries. You can install the necessary dependencies using pip:
 
 bash
