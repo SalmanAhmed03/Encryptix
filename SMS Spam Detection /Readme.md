@@ -31,7 +31,27 @@ label: The class of the message (ham or spam).
 
 text: The content of the SMS message.
 
+Preprocessing
 
+1.Loading the Data
+
+2.Cleaning the Data
+
+3.Visualizing the Data
+
+4.Splitting the Data
+
+5.Feature Extraction
+
+6.Model Training and Evaluation
+  a.Naive Bayes Model
+  b.Logistic Regression Model
+  
+7.Plotting Confusion Matrices
+
+Results
+
+The models show high accuracy in classifying SMS messages as spam or ham. The confusion matrices and classification reports provide detailed insights into the performance of each model.
 
 Usage
 
