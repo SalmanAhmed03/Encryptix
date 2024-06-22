@@ -34,6 +34,7 @@ Model Training
     Gradient Boosting: An ensemble technique that builds models sequentially to minimize prediction errors.
 
 Model Evaluation
+
     Each model is evaluated using the following metrics:
     Accuracy: The percentage of correct predictions.
     Confusion Matrix: A table to describe the performance of the classification model.
