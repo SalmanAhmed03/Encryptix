@@ -12,4 +12,4 @@ Step 7: Model Training Trains a Logistic Regression model on the training data w
 
 Step 8: Model Evaluation Accuracy scores: Calculates and prints the training and testing accuracies of the model. Classification Reports: Displays precision, recall, F1-score, and support for both training and testing data to evaluate model performance. Confusion Matrix: Visualizes the confusion matrix of the model predictions on the test set using a heatmap. ROC Curve: Plots the Receiver Operating Characteristic (ROC) curve and computes the Area Under the Curve (AUC) score to assess the model's ability to distinguish between classes. Precision-Recall Curve: Plots the precision-recall curve to evaluate the trade-off between precision and recall. Conclusion This workflow outlines the steps from data loading and preprocessing to model training and evaluation for a fraud detection problem using logistic regression. Each step is designed to ensure clarity and reproducibility of the model building process.
 
-Screenshot 2024-06-14 205328 Screenshot 2024-06-14 205411 Screenshot 2024-06-14 205431
+
