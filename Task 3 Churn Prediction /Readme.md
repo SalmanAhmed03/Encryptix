@@ -7,47 +7,76 @@ Random Forest
 Gradient Boosting
 
 Table of Contents
+
     Installation
+
     Data Preprocessing
+
     Model Training
+
     Model Evaluation
+
     Results
+
     Installation
+
 
 To run this project, you need to have Python installed along with the required libraries. You can install the necessary dependencies using pip:
 
 bash
+
 Copy code
+
 pip install pandas scikit-learn imbalanced-learn matplotlib seaborn
 
+
 Data Preprocessing
+
     Load the Data: The dataset is loaded from a CSV file
+
     Drop Unnecessary Columns: Remove columns that are not needed for the analysis (RowNumber, CustomerId, Surname).
+
     Encode Categorical Variables: Convert categorical variables (Geography, Gender) into numerical values using label encoding.
+
     Split the Data: Divide the data into training and testing sets (80% training, 20% testing).
+
     Standardize the Features: Standardize the feature values to have a mean of 0 and a standard deviation of 1.
 
+
 Model Training
+
     Three machine learning models are trained using the processed data:
+
     Logistic Regression: A simple yet effective linear model for binary classification.
+
     Random Forest: An ensemble learning method that constructs multiple decision trees.
+
     Gradient Boosting: An ensemble technique that builds models sequentially to minimize prediction errors.
+
 
 Model Evaluation
 
     Each model is evaluated using the following metrics:
+
     Accuracy: The percentage of correct predictions.
+
     Confusion Matrix: A table to describe the performance of the classification model.
+
     Classification Report: Includes precision, recall, f1-score, and support.
+
     ROC-AUC: The area under the ROC curve, which represents the model's ability to distinguish between classes.
+
     Additionally, the ROC curve is plotted for the Logistic Regression model.
 
 
+
 Results
+
 The evaluation results for each model are printed, including accuracy, confusion matrix, and classification report for both training and testing data. The ROC curve for the Logistic Regression model is also plotted.
 
 
 Example Output
+
 Logistic Regression
 yaml
 Copy code
